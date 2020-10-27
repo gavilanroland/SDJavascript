@@ -1,5 +1,9 @@
 "use strict"
-//6.a//
+//Excercise 5//
+//5.a//
 var week =["Monday","Thuesday","Wednesday","Thurday","Friday"]
+for (var i=0;i =< week.length-1);i++) {
+    Alert(week[i]);
+}
 
-alert(week)
+//6.b//
